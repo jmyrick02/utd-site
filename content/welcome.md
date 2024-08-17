@@ -7,9 +7,9 @@ categories = ["Hello world"]
 tags = ["internships", "research", "computer science", "mathematics", "zola", "professors"]
 +++
 
-Hello UTD, I'm Jack! I am an undergraduate studying computer science and mathematics in my senior year. I've interned at Amazon and Noblis as a software development engineer. I've also done research that has been submitted to and rejected by a couple of conferences :)
+Hello UTD, I'm Jack Myrick! I am an undergraduate studying computer science and mathematics in my senior year. I've interned at Amazon and Noblis as a software development engineer. I've also done research that has been submitted to and rejected by a couple of conferences :)
 <!-- more -->
 
 I primarily made this site for my two freshmen mentees studying computer science, but anyone's welcome to reach out to me at jam200020@utdallas.edu.
 
-If you're curious on how it's made, I used [Zola](https://www.getzola.org/), a static site generator that I noticed my former professor [Emily Fox](https://personal.utdallas.edu/~emily.fox/) used. I'm using the [after-dark](https://www.getzola.org/themes/after-dark/) theme, though I may change it.
+If you're curious on how it's made, I used [Zola](https://www.getzola.org/), a static site generator that I noticed my former professor [Emily Fox](https://personal.utdallas.edu/~emily.fox/) used. I'm using the [after-dark](https://www.getzola.org/themes/after-dark/) theme, though I may change it. I'm currently pushing the source and build files to GitHub, and then manually pulling on the UTD cs1 linux server and copying the files to my `public_html` directory. It's not ideal, but it works. I'll see if I can improve the process in the future.
