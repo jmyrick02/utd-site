@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://personal.utdallas.edu/~jam200020/sitemap.xml

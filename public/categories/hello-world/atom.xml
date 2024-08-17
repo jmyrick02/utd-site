@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Jack Myrick&#x27;s personal site - Hello world</title>
+    <link href="https://personal.utdallas.edu/~jam200020/categories/hello-world/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://personal.utdallas.edu/~jam200020"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-16T00:00:00+00:00</updated>
+    <id>https://personal.utdallas.edu/~jam200020/categories/hello-world/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Welcome to my personal site</title>
+        <published>2024-08-16T00:00:00+00:00</published>
+        <updated>2024-08-16T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://personal.utdallas.edu/~jam200020/welcome/" type="text/html"/>
+        <id>https://personal.utdallas.edu/~jam200020/welcome/</id>
+        
+        <summary type="html">&lt;p&gt;Hello UTD, I&#x27;m Jack! I am an undergraduate studying computer science and mathematics in my senior year. I&#x27;ve interned at Amazon and Noblis as a software development engineer. I&#x27;ve also done research that has been submitted to and rejected by a couple of conferences :)&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
